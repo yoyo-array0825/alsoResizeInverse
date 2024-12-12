@@ -1,0 +1,11 @@
+{
+  "name": "inverseresize",
+  "version": "1.0.0",
+  "description": "adds option to inversely resize other elements ",
+  "main": "alsoResizeInverse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cory",
+  "license": "ISC"
+}
